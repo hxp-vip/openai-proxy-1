@@ -1,2 +1,2 @@
-# OpenAI/ChatGPT 代理
-仅供测速使用
+# OpenAI/ChatGPT proxy
+For speed testing only.
